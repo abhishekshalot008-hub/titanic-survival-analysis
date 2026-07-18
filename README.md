@@ -61,3 +61,5 @@ Full details and justification for every decision are in `Summary_Report.md`.
 ## Tools Used
 Python, Jupyter Notebook, pandas, numpy, matplotlib, seaborn
 
+**Note:** If the notebook doesn't preview inline on GitHub, view it via [nbviewer](https://nbviewer.org/github/abhishekshalot008-hub/titanic-survival-analysis/blob/main/Titanic_Survival_Analysis.ipynb) or download and open in Jupyter/Colab.
+
